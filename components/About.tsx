@@ -13,16 +13,10 @@ const About: React.FC<{}> = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          As a passionate software engineer, I thrive on the intricate dance
-          between logic and creativity. Currently immersed in the dynamic world
-          of WebHR, my expertise centers around React Native, where I seamlessly
-          blend technology with innovation.
+          Hello! I am a seasoned Senior Software Engineer with over 3 years of hands-on experience in the dynamic field of technology. Throughout my career, I have consistently demonstrated a passion for innovation and a commitment to pushing the boundaries of what is possible in the realm of software development.
           <br />
           <br />
-          With a fervor for crafting elegant solutions, I navigate the
-          ever-evolving landscape of software development. My journey involves
-          translating concepts into code, creating seamless user experiences,
-          and constantly pushing the boundaries of what&#39;s possible
+          My journey as a software engineer has been marked by a dedication to staying at the forefront of technological advancements. I thrive on solving complex problems and take pride in my ability to turn innovative ideas into practical, functional solutions. I am well-versed in a variety of programming languages and frameworks, and I continually seek opportunities to expand my skill set.
         </p>
       </div>
     </section>
