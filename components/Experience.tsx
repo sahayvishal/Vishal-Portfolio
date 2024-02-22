@@ -17,7 +17,7 @@ const Experience: React.FC<{}> = () => {
           <p className="text-gray-300">FEB 2021 - PRESENT, DELHI</p>
         </div>
         <p className="text-gray-300 pt-5">
-          One of my proudest achievements is my contribution to the groundbreaking project of building India's first 5G ambulance.
+          One of my proudest achievements is my contribution to the groundbreaking project of building India&rsquo;s first 5G ambulance.
           In this role, I played a pivotal part in designing and implementing cutting-edge software solutions that enabled the ambulance to leverage the power of 5G technology.
           This initiative aimed to revolutionize emergency medical services by providing faster and more reliable communication, ultimately enhancing the efficiency of emergency response teams.
           <br />
